@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @TanishSrinivasan
+- 👀 I’m interested in UI/UX design, web development, data analytics, and photography.
+- 🌱 I’m currently learning full-stack development, Figma, and advanced Python concepts.
+- 💞️ I’m looking to collaborate on MERN stack projects, data analysis using Power BI, and creative UI/UX design projects.
+- 📫 How to reach me: [Email me](mailto:tanish.srinivasan03@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/tanishsrinivasan).
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I’m a photographer at heart, love cricket, and music!
