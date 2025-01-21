@@ -13,6 +13,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]( https://www.instagram.com/tanish_srinivasan/)       [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanish-srinivasan/)       [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)]( https://x.com/tanish_S_03/)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=TanishSrinivasan&locale=en&layout=compact&theme=transparent)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TanishSrinivasan&locale=en&theme=transparent&rank_icon=github&hide=issues&show_icons=true)
+<!-- ![GitHub Steak](https://github-readme-streak-stats.herokuapp.com/?user=TanishSrinivasan&theme=transparent&hide_border=false) -->
+<!-- ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
+
 
 - ## Tech Stack Used
 
